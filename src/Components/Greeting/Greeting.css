@@ -1,0 +1,15 @@
+/* Greeting.css */
+.greeting {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 0px;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  width:fit-content ;
+ /* border: 1px white solid; */
+ position: absolute;
+top:200px ;
+right: 550px;
+
+}
